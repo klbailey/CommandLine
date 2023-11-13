@@ -43,7 +43,7 @@ rm -f /path/to/directory/{*,.*}
 Open the file kamehameha/dragon-ball-jokes.md using the VI command line text editor
 vi <filename> — Open or edit a file
 
-Updated the file kamehameha/dragon-ball-jokes.md by removing the first joke you read on the file, finally save and close the text editor
+Updated the file kamehameha/dragon-ball-jokes.md by deleted the first joke on the file, saved and closed text editor.
 
 The procedure to save a file in vim / vi and quit the editor is as follows:
 vi filename.
